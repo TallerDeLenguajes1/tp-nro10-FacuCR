@@ -1,0 +1,14 @@
+C:\Users\Facundo\source\repos\Trabajo Practico 10\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+C:\Users\Facundo\source\repos\Trabajo Practico 10\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+C:\Users\Facundo\source\repos\Trabajo Practico 10\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+C:\Users\Facundo\source\repos\Trabajo Practico 10\Inmobiliaria\obj\Debug\Inmobiliaria.csprojAssemblyReference.cache
+C:\Users\Facundo\source\repos\Trabajo Practico 10\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\source\repos\Trabajo Practico 10\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+C:\Users\Facundo\source\repos\Trabajo Practico 10\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
+C:\Users\Facundo\Desktop\Repositorio\tp-nro10-FacuCR\Trabajo Practico 10\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+C:\Users\Facundo\Desktop\Repositorio\tp-nro10-FacuCR\Trabajo Practico 10\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+C:\Users\Facundo\Desktop\Repositorio\tp-nro10-FacuCR\Trabajo Practico 10\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+C:\Users\Facundo\Desktop\Repositorio\tp-nro10-FacuCR\Trabajo Practico 10\Inmobiliaria\obj\Debug\Inmobiliaria.csprojAssemblyReference.cache
+C:\Users\Facundo\Desktop\Repositorio\tp-nro10-FacuCR\Trabajo Practico 10\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\Repositorio\tp-nro10-FacuCR\Trabajo Practico 10\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+C:\Users\Facundo\Desktop\Repositorio\tp-nro10-FacuCR\Trabajo Practico 10\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
